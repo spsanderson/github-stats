@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #e34c26;width: 80.835%;" class="progress-item"></span><span style="background-color: #e38c00;width: 7.570%;" class="progress-item"></span><span style="background-color: #198CE7;width: 5.325%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 2.212%;" class="progress-item"></span><span style="background-color: #3D6117;width: 0.919%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.672%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 0.570%;" class="progress-item"></span><span style="background-color: #945db7;width: 0.457%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.457%;" class="progress-item"></span><span style="background-color: #3178c6;width: 0.361%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 0.270%;" class="progress-item"></span><span style="background-color: #663399;width: 0.263%;" class="progress-item"></span><span style="background-color: #555555;width: 0.048%;" class="progress-item"></span><span style="background-color: #701516;width: 0.011%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.007%;" class="progress-item"></span><span style="background-color: #c6538c;width: 0.007%;" class="progress-item"></span><span style="background-color: #867db1;width: 0.005%;" class="progress-item"></span><span style="background-color: #012456;width: 0.005%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.003%;" class="progress-item"></span><span style="background-color: #945db7;width: 0.002%;" class="progress-item"></span><span style="background-color: #427819;width: 0.000%;" class="progress-item"></span>
+<span style="background-color: #e34c26;width: 80.826%;" class="progress-item"></span><span style="background-color: #e38c00;width: 7.570%;" class="progress-item"></span><span style="background-color: #198CE7;width: 5.324%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 2.212%;" class="progress-item"></span><span style="background-color: #3D6117;width: 0.919%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.672%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 0.570%;" class="progress-item"></span><span style="background-color: #945db7;width: 0.457%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.456%;" class="progress-item"></span><span style="background-color: #3178c6;width: 0.361%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 0.270%;" class="progress-item"></span><span style="background-color: #663399;width: 0.263%;" class="progress-item"></span><span style="background-color: #555555;width: 0.048%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.014%;" class="progress-item"></span><span style="background-color: #701516;width: 0.011%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.007%;" class="progress-item"></span><span style="background-color: #c6538c;width: 0.007%;" class="progress-item"></span><span style="background-color: #867db1;width: 0.005%;" class="progress-item"></span><span style="background-color: #012456;width: 0.005%;" class="progress-item"></span><span style="background-color: #945db7;width: 0.002%;" class="progress-item"></span><span style="background-color: #427819;width: 0.000%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -257,6 +257,15 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 
 
 <li style="animation-delay: 1950ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#C1F12E;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Batchfile</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 2100ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#701516;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
@@ -265,7 +274,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 </li>
 
 
-<li style="animation-delay: 2100ms;">
+<li style="animation-delay: 2250ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#89e051;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
@@ -274,7 +283,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 </li>
 
 
-<li style="animation-delay: 2250ms;">
+<li style="animation-delay: 2400ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#c6538c;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
@@ -283,7 +292,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 </li>
 
 
-<li style="animation-delay: 2400ms;">
+<li style="animation-delay: 2550ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#867db1;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
@@ -292,20 +301,11 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 </li>
 
 
-<li style="animation-delay: 2550ms;">
+<li style="animation-delay: 2700ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#012456;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">PowerShell</span>
-<span class="percent">0.00%</span>
-</li>
-
-
-<li style="animation-delay: 2700ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#C1F12E;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Batchfile</span>
 <span class="percent">0.00%</span>
 </li>
 
